@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CJT",
-    "currentPage": "inde.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,7 +37,7 @@
     "versionPublish": "4.3.0"
   },
   "pages": {
-    "inde.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
